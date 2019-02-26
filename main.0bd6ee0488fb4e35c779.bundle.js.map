@@ -1,0 +1,1 @@
+{"version":3,"file":"main.0bd6ee0488fb4e35c779.bundle.js","sources":["webpack:///./src/Hello.tsx"],"sourcesContent":["import * as React from \"react\";\n\nconst Hello = () => <h1>Hello, World</h1>;\n\nexport default Hello;\n"],"mappings":"AAAA","sourceRoot":""}
